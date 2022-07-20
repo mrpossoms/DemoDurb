@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>level0.png</Source>
+      <Name>level0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\level0.xnb</Output>
+      <Time>2009-08-31T00:02:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body0.png</Source>
+      <Name>car_body0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body0.xnb</Output>
+      <Time>2009-08-29T23:29:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_windows0.png</Source>
+      <Name>car_windows0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_windows0.xnb</Output>
+      <Time>2009-08-29T23:29:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>center.png</Source>
+      <Name>center</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\center.xnb</Output>
+      <Time>2009-08-30T00:24:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>waterfall.jpg</Source>
+      <Name>waterfall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\waterfall.xnb</Output>
+      <Time>2009-08-30T01:38:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dust0.png</Source>
+      <Name>dust0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\dust0.xnb</Output>
+      <Time>2009-08-30T01:54:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dust1.png</Source>
+      <Name>dust1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\dust1.xnb</Output>
+      <Time>2009-08-30T01:54:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dust2.png</Source>
+      <Name>dust2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\dust2.xnb</Output>
+      <Time>2009-09-03T23:20:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spark.png</Source>
+      <Name>spark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\spark.xnb</Output>
+      <Time>2009-08-30T21:12:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_black0.png</Source>
+      <Name>smoke_black0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_black0.xnb</Output>
+      <Time>2009-08-30T22:04:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_black1.png</Source>
+      <Name>smoke_black1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_black1.xnb</Output>
+      <Time>2009-08-30T22:04:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_black2.png</Source>
+      <Name>smoke_black2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_black2.xnb</Output>
+      <Time>2009-08-30T22:04:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_black3.png</Source>
+      <Name>smoke_black3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_black3.xnb</Output>
+      <Time>2009-08-30T22:04:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_grey0.png</Source>
+      <Name>smoke_grey0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_grey0.xnb</Output>
+      <Time>2009-08-30T22:01:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_grey1.png</Source>
+      <Name>smoke_grey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_grey1.xnb</Output>
+      <Time>2009-08-30T22:01:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_grey2.png</Source>
+      <Name>smoke_grey2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_grey2.xnb</Output>
+      <Time>2009-08-30T22:02:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke_grey3.png</Source>
+      <Name>smoke_grey3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\smoke_grey3.xnb</Output>
+      <Time>2009-08-30T22:03:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spedo_gauge.png</Source>
+      <Name>spedo_gauge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\spedo_gauge.xnb</Output>
+      <Time>2009-08-31T10:35:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spedo_needle.png</Source>
+      <Name>spedo_needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\spedo_needle.xnb</Output>
+      <Time>2009-08-30T22:31:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts0.png</Source>
+      <Name>little_parts0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts0.xnb</Output>
+      <Time>2009-08-30T23:42:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts1.png</Source>
+      <Name>little_parts1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts1.xnb</Output>
+      <Time>2009-08-30T23:42:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts2.png</Source>
+      <Name>little_parts2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts2.xnb</Output>
+      <Time>2009-08-30T23:43:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts3.png</Source>
+      <Name>little_parts3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts3.xnb</Output>
+      <Time>2009-08-30T23:43:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts4.png</Source>
+      <Name>little_parts4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts4.xnb</Output>
+      <Time>2009-08-30T23:44:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts5.png</Source>
+      <Name>little_parts5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts5.xnb</Output>
+      <Time>2009-08-30T23:44:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts6.png</Source>
+      <Name>little_parts6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts6.xnb</Output>
+      <Time>2009-08-30T23:44:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>little_parts7.png</Source>
+      <Name>little_parts7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\little_parts7.xnb</Output>
+      <Time>2009-08-30T23:44:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paint_chips0.png</Source>
+      <Name>paint_chips0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\paint_chips0.xnb</Output>
+      <Time>2009-08-30T23:46:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paint_chips1.png</Source>
+      <Name>paint_chips1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\paint_chips1.xnb</Output>
+      <Time>2009-08-30T23:47:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paint_chips2.png</Source>
+      <Name>paint_chips2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\paint_chips2.xnb</Output>
+      <Time>2009-08-30T23:47:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paint_chips3.png</Source>
+      <Name>paint_chips3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\paint_chips3.xnb</Output>
+      <Time>2009-08-30T23:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body1.png</Source>
+      <Name>car_body1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body1.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body2.png</Source>
+      <Name>car_body2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body2.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body3.png</Source>
+      <Name>car_body3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body3.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body4.png</Source>
+      <Name>car_body4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body4.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body5.png</Source>
+      <Name>car_body5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body5.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body6.png</Source>
+      <Name>car_body6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body6.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_body7.png</Source>
+      <Name>car_body7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_body7.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_windows1.png</Source>
+      <Name>car_windows1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_windows1.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_windows2.png</Source>
+      <Name>car_windows2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_windows2.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_windows3.png</Source>
+      <Name>car_windows3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_windows3.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_windows4.png</Source>
+      <Name>car_windows4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\car_windows4.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>frame.png</Source>
+      <Name>frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\frame.xnb</Output>
+      <Time>2009-08-31T00:51:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2009-08-31T01:31:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>level1.png</Source>
+      <Name>level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\level1.xnb</Output>
+      <Time>2009-08-31T10:19:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>health_bar.png</Source>
+      <Name>health_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\health_bar.xnb</Output>
+      <Time>2009-10-09T13:00:23.71875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fire0.png</Source>
+      <Name>fire0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\fire0.xnb</Output>
+      <Time>2009-09-03T23:18:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fire1.png</Source>
+      <Name>fire1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\fire1.xnb</Output>
+      <Time>2009-09-03T23:19:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fire2.png</Source>
+      <Name>fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\fire2.xnb</Output>
+      <Time>2009-09-03T23:20:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>char.png</Source>
+      <Name>char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\char.xnb</Output>
+      <Time>2009-09-27T17:52:27.734375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_0.png</Source>
+      <Name>ui_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_0.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_1.png</Source>
+      <Name>ui_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_1.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_2.png</Source>
+      <Name>ui_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_2.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_3.png</Source>
+      <Name>ui_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_3.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_oob.png</Source>
+      <Name>ui_oob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_oob.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_pointer.png</Source>
+      <Name>ui_pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_pointer.xnb</Output>
+      <Time>2009-09-04T20:05:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_mm.png</Source>
+      <Name>ui_mm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_mm.xnb</Output>
+      <Time>2009-09-05T00:36:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>null.png</Source>
+      <Name>null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\null.xnb</Output>
+      <Time>2009-09-05T00:36:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>point_0.png</Source>
+      <Name>point_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\point_0.xnb</Output>
+      <Time>2009-09-05T17:03:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>point_1.png</Source>
+      <Name>point_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\point_1.xnb</Output>
+      <Time>2009-09-05T17:03:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>point_2.png</Source>
+      <Name>point_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\point_2.xnb</Output>
+      <Time>2009-09-05T17:03:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shadow.png</Source>
+      <Name>shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\shadow.xnb</Output>
+      <Time>2009-09-05T17:31:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mm_title0.png</Source>
+      <Name>mm_title0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\mm_title0.xnb</Output>
+      <Time>2009-09-05T22:33:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mm_title1.png</Source>
+      <Name>mm_title1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\mm_title1.xnb</Output>
+      <Time>2009-09-05T23:14:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver0.png</Source>
+      <Name>driver0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver0.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver1.png</Source>
+      <Name>driver1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver1.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver10.png</Source>
+      <Name>driver10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver10.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver11.png</Source>
+      <Name>driver11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver11.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver2.png</Source>
+      <Name>driver2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver2.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver3.png</Source>
+      <Name>driver3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver3.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver4.png</Source>
+      <Name>driver4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver4.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver5.png</Source>
+      <Name>driver5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver5.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver6.png</Source>
+      <Name>driver6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver6.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver7.png</Source>
+      <Name>driver7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver7.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver8.png</Source>
+      <Name>driver8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver8.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver9.png</Source>
+      <Name>driver9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver9.xnb</Output>
+      <Time>2009-09-06T18:17:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>driver_color.png</Source>
+      <Name>driver_color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\driver_color.xnb</Output>
+      <Time>2009-09-07T14:46:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_0.png</Source>
+      <Name>blood_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_0.xnb</Output>
+      <Time>2009-09-07T23:32:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_1.png</Source>
+      <Name>blood_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_1.xnb</Output>
+      <Time>2009-09-07T23:31:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_2.png</Source>
+      <Name>blood_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_2.xnb</Output>
+      <Time>2009-09-07T23:31:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_3.png</Source>
+      <Name>blood_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_3.xnb</Output>
+      <Time>2009-09-07T23:31:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_4.png</Source>
+      <Name>blood_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_4.xnb</Output>
+      <Time>2009-09-07T23:32:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_puff0.png</Source>
+      <Name>blood_puff0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_puff0.xnb</Output>
+      <Time>2009-09-07T19:07:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_puff1.png</Source>
+      <Name>blood_puff1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_puff1.xnb</Output>
+      <Time>2009-09-07T19:07:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blood_puff2.png</Source>
+      <Name>blood_puff2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\blood_puff2.xnb</Output>
+      <Time>2009-09-07T19:07:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_0.png</Source>
+      <Name>ui_digit_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_0.xnb</Output>
+      <Time>2009-09-07T23:55:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_1.png</Source>
+      <Name>ui_digit_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_1.xnb</Output>
+      <Time>2009-09-07T23:56:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_2.png</Source>
+      <Name>ui_digit_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_2.xnb</Output>
+      <Time>2009-09-07T23:56:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_3.png</Source>
+      <Name>ui_digit_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_3.xnb</Output>
+      <Time>2009-09-07T23:56:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_4.png</Source>
+      <Name>ui_digit_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_4.xnb</Output>
+      <Time>2009-09-07T23:56:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_5.png</Source>
+      <Name>ui_digit_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_5.xnb</Output>
+      <Time>2009-09-07T23:56:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_6.png</Source>
+      <Name>ui_digit_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_6.xnb</Output>
+      <Time>2009-09-07T23:57:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_7.png</Source>
+      <Name>ui_digit_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_7.xnb</Output>
+      <Time>2009-09-07T23:57:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_8.png</Source>
+      <Name>ui_digit_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_8.xnb</Output>
+      <Time>2009-09-07T23:57:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_digit_9.png</Source>
+      <Name>ui_digit_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_digit_9.xnb</Output>
+      <Time>2009-09-07T23:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_kills.png</Source>
+      <Name>ui_kills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_kills.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_Score.png</Source>
+      <Name>ui_Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_Score.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_SelMm.png</Source>
+      <Name>ui_SelMm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_SelMm.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_SelRetry.png</Source>
+      <Name>ui_SelRetry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_SelRetry.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_TitleLose.png</Source>
+      <Name>ui_TitleLose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_TitleLose.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_TitleWin.png</Source>
+      <Name>ui_TitleWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_TitleWin.xnb</Output>
+      <Time>2009-09-12T13:40:11.28125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_window.png</Source>
+      <Name>ui_window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_window.xnb</Output>
+      <Time>2009-10-04T11:26:10.70875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>backGround.png</Source>
+      <Name>backGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\backGround.xnb</Output>
+      <Time>2009-10-10T11:11:42.453125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>level2.png</Source>
+      <Name>level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\level2.xnb</Output>
+      <Time>2009-11-18T01:56:52.2177735-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modeDemo.png</Source>
+      <Name>modeDemo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\modeDemo.xnb</Output>
+      <Time>2009-11-23T15:13:24.78125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modeTag.png</Source>
+      <Name>modeTag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\modeTag.xnb</Output>
+      <Time>2009-11-23T15:13:24.8125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modeZomb.png</Source>
+      <Name>modeZomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\modeZomb.xnb</Output>
+      <Time>2009-11-23T15:13:24.828125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_minus.png</Source>
+      <Name>ui_minus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_minus.xnb</Output>
+      <Time>2009-11-26T20:34:24.71875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_plus.png</Source>
+      <Name>ui_plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ui_plus.xnb</Output>
+      <Time>2009-11-26T20:34:24.734375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hs_deaths.png</Source>
+      <Name>hs_deaths</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\hs_deaths.xnb</Output>
+      <Time>2009-11-26T20:37:46.609375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hs_kd.png</Source>
+      <Name>hs_kd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\hs_kd.xnb</Output>
+      <Time>2009-11-26T20:37:46.328125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hs_kills.png</Source>
+      <Name>hs_kills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\hs_kills.xnb</Output>
+      <Time>2009-11-26T20:37:46.578125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hs_score.png</Source>
+      <Name>hs_score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\hs_score.xnb</Output>
+      <Time>2009-11-26T20:37:46.59375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quit.png</Source>
+      <Name>quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\quit.xnb</Output>
+      <Time>2009-11-18T04:04:30.444336-05:00</Time>
+    </Item>
+    <Item>
+      <Source>help.png</Source>
+      <Name>help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\help.xnb</Output>
+      <Time>2009-11-18T04:12:23.5322266-05:00</Time>
+    </Item>
+    <Item>
+      <Source>controls.png</Source>
+      <Name>controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\controls.xnb</Output>
+      <Time>2009-11-18T04:23:40.9970703-05:00</Time>
+    </Item>
+    <Item>
+      <Source>helpIco.png</Source>
+      <Name>helpIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\helpIco.xnb</Output>
+      <Time>2009-12-17T17:32:17.703125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kirk.png</Source>
+      <Name>kirk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\kirk.xnb</Output>
+      <Time>2002-01-01T02:30:20.1123046-05:00</Time>
+    </Item>
+    <Item>
+      <Source>point.png</Source>
+      <Name>point</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\point.xnb</Output>
+      <Time>2002-01-01T19:19:52.3740234-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2002-01-02T01:27:59.024414-05:00</Time>
+    </Item>
+    <Item>
+      <Source>postgame.spritefont</Source>
+      <Name>postgame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\postgame.xnb</Output>
+      <Time>2009-09-18T18:17:15.359375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialOpening.spritefont</Source>
+      <Name>ArialOpening</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\ArialOpening.xnb</Output>
+      <Time>2002-01-02T01:23:18.1914062-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\BloomCombine.fx</Source>
+      <Name>shaders\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\shaders\BloomCombine.xnb</Output>
+      <Time>2009-08-30T01:38:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\BloomExtract.fx</Source>
+      <Name>shaders\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\shaders\BloomExtract.xnb</Output>
+      <Time>2009-08-30T01:38:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\GaussianBlur.fx</Source>
+      <Name>shaders\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\shaders\GaussianBlur.xnb</Output>
+      <Time>2009-08-30T01:38:58-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Projects\DemoDurb 1.6.10\DemoDurb\Content\</RootDirectory>
+      <LoggerRootDirectory>H:\Projects\DemoDurb 1.6.10\DemoDurb\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Projects\DemoDurb 1.6.10\DemoDurb\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Projects\DemoDurb 1.6.10\DemoDurb\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-11-09T11:31:20.2490234-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

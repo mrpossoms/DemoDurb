@@ -1,0 +1,5 @@
+huds are drawn incorrectly when a player quits
+
+the huds (health bars) for player 3 and prolly player 4 are messed up
+
+the deaths are not updated after each match

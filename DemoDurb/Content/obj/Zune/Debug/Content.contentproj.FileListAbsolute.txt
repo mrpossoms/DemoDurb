@@ -1,0 +1,11 @@
+C:\Users\Kirk\Desktop\DemoDurb\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DemoDurb\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+\\192.168.2.12\Documents\DemoDurb\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\DemoDurb\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+\\192.168.2.12\Documents\DemoDurb 9.3.09 no nn\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\DemoDurb 9.3.09 no nn\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\DemoDurb 9.7.09 no nn\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UserXP\Desktop\DemoDurb 9.7.09 no nn\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UserXP\Desktop\DemoDurb 10.12.09\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UserXP\Desktop\DemoDurb 10.20.09\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+G:\Projects\DemoDurb 10.30.09\DemoDurb\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

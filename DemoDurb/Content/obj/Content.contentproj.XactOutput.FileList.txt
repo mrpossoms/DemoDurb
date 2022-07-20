@@ -1,0 +1,6 @@
+Content\demoDurb.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb
+Content\sounds\demoDurb.xgs
+Content\sounds\Wave Bank.xwb
+Content\sounds\Sound Bank.xsb
